@@ -11,7 +11,7 @@ Mini-project: **Quản lý danh sách sản phẩm bảo mật** gồm Client Re
 - Xác thực: JWT (JSON Web Token)
 
 ## Cấu trúc thư mục
-TX3/
+.TX3/
 ├── client/
 │ ├── index.html
 │ ├── vite.config.js
@@ -24,4 +24,5 @@ TX3/
 │ ├── server.js
 │ ├── middleware.js
 │ └── package.json
-└── .gitignore
+└── .gitignore.
+
